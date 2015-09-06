@@ -3,4 +3,12 @@
   <groupId>edu.cmu.cs.lti.11791.f15</groupId>
   <artifactId>pi1-yiuchanl</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>edu.stanford.nlp</groupId>
+  		<artifactId>stanford-corenlp</artifactId>
+  		<version>3.5.2</version>
+  		<scope>provided</scope>
+  	</dependency>
+  </dependencies>
 </project>
